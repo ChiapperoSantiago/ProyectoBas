@@ -1,0 +1,12 @@
+C:\Users\santi\Desktop\visual studio\proyectoBase\proyectoBase\bin\Debug\proyectoBase.exe.config
+C:\Users\santi\Desktop\visual studio\proyectoBase\proyectoBase\bin\Debug\proyectoBase.exe
+C:\Users\santi\Desktop\visual studio\proyectoBase\proyectoBase\bin\Debug\proyectoBase.pdb
+C:\Users\santi\Desktop\visual studio\proyectoBase\proyectoBase\obj\Debug\proyectoBase.csproj.AssemblyReference.cache
+C:\Users\santi\Desktop\visual studio\proyectoBase\proyectoBase\obj\Debug\proyectoBase.LoginUser.resources
+C:\Users\santi\Desktop\visual studio\proyectoBase\proyectoBase\obj\Debug\proyectoBase.Properties.Resources.resources
+C:\Users\santi\Desktop\visual studio\proyectoBase\proyectoBase\obj\Debug\proyectoBase.csproj.GenerateResource.cache
+C:\Users\santi\Desktop\visual studio\proyectoBase\proyectoBase\obj\Debug\proyectoBase.csproj.CoreCompileInputs.cache
+C:\Users\santi\Desktop\visual studio\proyectoBase\proyectoBase\obj\Debug\proyectoBase.exe
+C:\Users\santi\Desktop\visual studio\proyectoBase\proyectoBase\obj\Debug\proyectoBase.pdb
+C:\Users\santi\Desktop\visual studio\proyectoBase\proyectoBase\obj\Debug\proyectoBase.Principal.resources
+C:\Users\santi\Desktop\visual studio\proyectoBase\proyectoBase\obj\Debug\proyectoBase.AltaPersona.resources
